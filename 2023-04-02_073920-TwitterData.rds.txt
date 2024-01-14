@@ -1,0 +1,19 @@
+collect.twitter
+Sun Apr 02 5:38:43 PM 2023
+2023-04-02 07:38:43 UTC
+
+searchTerm = #ArmaanMalik OR #Armaanians OR #TeamArmaan OR #Armaaniansarmy
+searchType = recent
+numTweets = 4000
+lang = en
+includeRetweets = TRUE
+writeToFile = TRUE
+verbose = TRUE
+
+tweet        | status_id           | created            
+--------------------------------------------------------
+Latest Obs   | 1642431260894330881 | 2023-04-02 07:38:22
+Earliest Obs | 1639141977034747904 | 2023-03-24 05:47:55
+
+
+Sun Apr 02 7:39:20 AM 2023
